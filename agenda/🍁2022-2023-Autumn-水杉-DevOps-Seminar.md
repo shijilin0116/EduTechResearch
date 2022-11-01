@@ -17,8 +17,8 @@
 |  04   | 10-28 | 祁宁 @joyqi SegmentFault 思否创始人兼 CTO，明城 @mingcheng SegmentFault 思否高级架构师 |  开源问答社区软件 Answer 介绍 | 俞泽恺 | https://github.com/OpenEduTech/EduTechResearch/issues/24 |[B站链接](https://www.bilibili.com/video/BV1rP4y1S7em/?spm_id_from=333.999.0.0) |
 |  05   | 11-04 | 张海立 |  浅谈 FaaS 与 DevOps  | 李锦路 |  | |
 |  06   | 11-11 | 司琦 |  水杉CI/CD 实现  | 李锦路 |  | |
-| 07 | 11-18 | 史继林 | 静态代码扫描与安全测试 | 李锦路 | | |
-| 08 | 11-25| 皮雯旭 | 单元测试 | 李锦路 |  | |
+| 07 | 11-18 | 史继林 | 单元测试 | 李锦路 | | |
+| 08 | 11-25| 皮雯旭 | 静态代码扫描与安全测试 | 李锦路 |  | |
 | 09 | 12-02| 黄温瑞/王婕 | 前端UI测试 | 李锦路 |  | |
 | 10 | 12-09 |暂定 | 接口API测试 |李锦路 |  | |
 | 11 | 12-16| 李昱鑫| 压力测试 |李锦路 |  | |
